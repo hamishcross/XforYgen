@@ -1,6 +1,7 @@
 4chan
 500px
 7/11
+9 News
 Acer
 Adidas
 Adobe
@@ -48,7 +49,6 @@ Dell
 Discord
 Dodge
 Dropbox
-Dropbox
 Duracell
 eBay
 Edx
@@ -60,7 +60,9 @@ Etsy
 Everready
 Evernote
 Facebook
+Fairfax
 Ferrari
+Fiat
 Fiverr
 Flickr
 Flipkart
@@ -68,6 +70,7 @@ Food
 Forbes
 Fox News
 Fruit Loops
+Giant
 GitHub
 Gitlab
 Godrej
@@ -100,7 +103,6 @@ iPhone
 iTunes
 Jack Daniel's
 Jobs
-Jockey
 Jockey
 Kickstarter
 Kiwix
@@ -180,6 +182,7 @@ The Boring Company
 The Learning Channel
 Tidal
 Tinder
+Trek
 Tor
 Toyota
 Trello
@@ -188,7 +191,6 @@ TwitchTV
 Twitter
 Udacity
 Udemy
-Uber
 Uber
 Uber Eats
 Urban Clap
