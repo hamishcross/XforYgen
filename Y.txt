@@ -73,10 +73,10 @@ Frat parties
 French Fries
 Frost bite
 Fruits
-furniture
+Furniture
 Gamers
 Gaming
-gardeners
+Gardeners
 Gifts
 Giraffes
 Glasses
@@ -124,10 +124,12 @@ Multipurpose event spaces
 Music
 Musicians
 Music festivals
+Music concert
 Novels
 Nurses
 old people that refuse to use computers
 Online Shoppers
+Opera
 Orthodontists
 Pajamas
 Parents
@@ -170,6 +172,7 @@ spelunking
 stealing other people's Netflix accounts
 stoners
 Streamers
+Streaking
 students
 Students orgs
 Teenagers
@@ -195,6 +198,7 @@ venture capitalists
 Veterans
 Vinyl
 Vloggers
+Walks on the beach
 Warehouses
 Washed up quarterbacks
 Washing Machines
