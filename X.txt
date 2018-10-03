@@ -93,9 +93,6 @@ Huawei
 Hulu
 IBM
 Ikea
-Ikea
-Ikea
-Ikea
 Indiegogo
 Instagram
 Internet
@@ -155,7 +152,6 @@ Podcasts
 Pornhub
 ProtonMail
 Reddit
-Reddit
 Red Hat
 Sainsbury's
 Samsung
@@ -167,7 +163,6 @@ Shell
 Silk Road
 Skype
 Slack
-Slack
 Slashdot
 Snapchat
 SoftServe
@@ -177,7 +172,6 @@ Souq.com
 Soylent
 SpaceX
 Splash Damage
-Spotify
 Spotify
 Starbucks
 Steam
